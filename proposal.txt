@@ -1,0 +1,19 @@
+     Proposta de Projeto Python: Gerenciador de Tarefas Pessoais
+                                 Visão Geral
+
+Este projeto consiste em um aplicativo de linha de comando (CLI) para gerenciamento de tarefas pessoais
+permitindo ao usuário adicionar, visualizar, marcar como concluída e remover tarefas.
+
+                                 Objetivos
+
+-Criar um sistema simples mas funcional para gerenciamento de tarefas
+-Praticar conceitos básicos de Python como listas, dicionários, funções e manipulação de arquivos
+-Implementar uma interface de linha de comando intuitiva
+
+                        Funcionalidades Principais
+
+-Adicionar nova tarefa OK
+-Listar todas as tarefas 
+-Marcar tarefa como concluída
+-Remover tarefa da lista
+-Salvar tarefas em arquivo para persistência dos dados
